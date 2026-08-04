@@ -84,3 +84,5 @@ This notebook is a structured walkthrough of the PySpark DataFrame API — from 
 
 ## Tech Stack
 `PySpark` · `Databricks` · `Delta Lake` · `Spark SQL`
+
+Note: I have added some comments in notebook for functions description or cell description.
